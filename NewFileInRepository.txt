@@ -1,0 +1,2 @@
+This is my first Git repository!
+Lets have fun to learn it!
