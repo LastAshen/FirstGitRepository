@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 write some codes to test h
-learning it now! 
 =======
 <
 learning it now!
