@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-write some codes to test h
-learning it now! 
-=======
-<
-learning it now!
->>>>>>> bd66fe0868de5b5fbdec8deaf894ac86c576b6cb
+write some codes to test    
+learning it now!    change on website
